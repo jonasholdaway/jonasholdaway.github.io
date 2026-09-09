@@ -16,7 +16,7 @@ At the moment though, I'm learning HTML so I can develop what I hope will become
 Let's try adding an image.
 </p>
 
-<img src="pics/mindset.jpeg" alt="Mindset is Everything" height="400">
+<img src="blogpics/mindset.jpeg" alt="Mindset is Everything" height="400">
 
 Nice. You, the reader, won't see it, but I just discovered that I don't need to make a new "branch" in GitHub for every page, which duplicates the entire site. I am proud and embarassed that I've never previously used GitHub, the coding platform that is generously hosting my website, so that will be part of this web dev exploration. 
 
