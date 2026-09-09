@@ -16,6 +16,7 @@ I'll eventually add the content to my own site, but in the meantime, visit my <a
 </p>
 
 <h2>Blog</h2>
+Test blog
 September 2026 [coming soon]
 
 <h2>Bonus</h2>
@@ -25,6 +26,7 @@ September 2026 [coming soon]
 <h2>Contact</h2>
 
 <p><a href="mailto:jonasholdaway@ucla.edu">jonasholdaway@ucla.edu</a></p>
+<p><a href="https://www.linkedin.com/in/jonasholdaway">LinkedIn</a></p>
 
 </body>
 </html>
