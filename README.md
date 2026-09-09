@@ -16,8 +16,10 @@ I'll eventually add the content to my own site, but in the meantime, visit my <a
 </p>
 
 <h2>Blog</h2>
-Test blog
+<p>
+<a href="blog/testblog">Test blog </a> <br>
 September 2026 [coming soon]
+</p>
 
 <h2>Bonus</h2>
 <p>[coming soon]
