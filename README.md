@@ -17,7 +17,7 @@ I'll eventually add the content to my own site, but in the meantime, visit my <a
 
 <h2>Blog</h2>
 <p>
-<a href="blog/testblog">Test blog </a> <br>
+<a href="blog/testblog.md">Test blog </a> <br>
 September 2026 [coming soon]
 </p>
 
