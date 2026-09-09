@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <title> Jonas Holdaway | Test blog </title>
+</head>
+    
+<body style="font-family: 'Times New Roman', Times, serif;">
+
+<h1 style="font-family: 'Courier New', Courier, monospace;">Test blog</h1>
+<p>
+It's nearly midnight, the night before I fly to Berlin to start a new life. I'm anxious to start work and figure out all the unknowns. For example: where is my apartment? If I paid for a month's rent, why will they not tell me my address? At the moment though, I'm learning HTML so I can develop what I hope will become a quaint 90s-style website.  
+
+Let's try adding an image.
+</p>
+
+<img src="img_chania.jpg" alt="Flowers in Chania" width="460" height="345">
+
+</body>
+</html>
