@@ -15,7 +15,7 @@ It's nearly midnight, the night before I fly to Berlin to start a new life. I'm 
     
 At the moment though, I'm learning HTML so I can develop what I hope will become a quaint 90s-style website where I can host my Berlin blog and rebuild the portfolio that I recently lost (alongside the whole Adobe suite). Tonight, I was watching YouTube and, although I generally avoid self-help material these days, I clicked on a video from a 20-something who told me to "stop watching other people do what you want to do, and do it yourself" (she was more eloquent). So here we are.
 
-Let's try adding an image.
+Let's keep figuring out the basics of HTML. How about we try adding an image?
 </p>
 
 <img src="../blogpics/mindset.jpeg" alt="Mindset is Everything" height="400">
