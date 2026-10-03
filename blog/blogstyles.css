@@ -13,6 +13,7 @@ p {
 }
 div {text-align: center; 
      max-width:var(--wideness); 
+     margin-inline: auto;
      color:var(--bodycolor);
      margin-bottom:15px}
 
