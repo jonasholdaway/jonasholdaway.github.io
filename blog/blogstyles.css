@@ -8,6 +8,7 @@ p {
     margin-top:0;
     margin-bottom:15px;
 }
+div {text-align: center;}
 .date {color:cornflowerblue; font-weight:bold; font-style:italic; margin-top:0px}
 h1 {font-family:'Courier New',monospace; margin-bottom:0px; color: black;}  
 h2 {font-family:'Courier New',monospace; margin-bottom:0px; color: indianred;}
