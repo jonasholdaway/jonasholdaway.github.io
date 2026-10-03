@@ -1,5 +1,17 @@
-Prologue
-*Juli 2026 - 15 Septiember [?] 2026*
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <title> Jonas Holdaway | Prologue </title>
+    <link rel="stylesheet" href="blogstyles.css">
+</head>
+    
+<a href=../index.html>Home page </a> <br>
+    
+<h1> Test blog </h1>
+<h2 class="date">*Juli 2026 – 15 September 2026*</h2>
+
+<p>    
 
 ~~~
 
@@ -31,7 +43,7 @@ I returned "home," but dinner was not an option because: a) I had no food, b) I 
 
 Hungry, partially clean, and teetering on the edge of a day-long mental breakdown [?], I collapsed on the near side of the crack running the length of my couch-bed [?] and laid my head on the pillow whose security tag [?] Woolworth had failed to remove upon my purchase. Ready for my first day at my first job! 
 
-
+</p>
 
 
 
