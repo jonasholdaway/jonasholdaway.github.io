@@ -1,4 +1,4 @@
-var(--wideness, 800)
+:root{var(--wideness, 800)}
 
 body {margin-left:40px;}
 p {
