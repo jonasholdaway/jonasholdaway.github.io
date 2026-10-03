@@ -17,7 +17,7 @@ div {text-align: center;
      color:var(--bodycolor);
      margin-bottom:15px}
 
-.date {color:cornflowerblue; font-weight:bold; font-style:italic; margin-top:0px}
+.date {color:cornflowerblue; font-weight:bold; font-style:italic; margin-top:5px}
 
 h1 {font-family:'Courier New',monospace; margin-bottom:0px; color: black;}  
 h2 {font-family:'Courier New',monospace; margin-bottom:0px; color: indianred;}
