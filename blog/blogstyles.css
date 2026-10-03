@@ -11,7 +11,7 @@ p {
     margin-top:0;
     margin-bottom:15px;
 }
-div {text-align: center; var(wideness); 
+div {text-align: center; var(--wideness); 
      color:var(--bodycolor);
      margin-bottom:15px}
 
