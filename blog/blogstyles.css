@@ -1,4 +1,5 @@
-:root {--wideness, 800px; --bodycolor, rgb(32,64,80);}
+:root {--wideness:800px; 
+       --bodycolor:rgb(32,64,80);}
 
 body {margin-left:40px;}
 p {
