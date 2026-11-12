@@ -33,10 +33,9 @@ figure {
        margin: 0}
 
 figure img {
-    display: block;
-    max-width: 100%;
-    height: auto;
-    margin: 0 auto;}
+       display: block;
+       max-width: 100%;
+       margin: 0 auto;}
 
 figcaption {
        /* background-color: black;
