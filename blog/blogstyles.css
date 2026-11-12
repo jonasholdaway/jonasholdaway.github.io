@@ -12,8 +12,10 @@ p {
     margin-bottom:15px;
 }
 div {text-align: center; 
-     max-width:var(--wideness); 
+     width:var(--wideness); 
+     max-width: 100%;
      color:var(--bodycolor);
+     margin-top:0;
      margin-bottom:15px}
 
 .date {color:cornflowerblue; font-weight:bold; font-style:italic; margin-top:5px}
