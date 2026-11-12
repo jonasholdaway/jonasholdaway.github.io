@@ -33,6 +33,7 @@ figure {
 figcaption {
   /* background-color: black;
   color: white; */
+  font-family:'Courier New',monospace;
   font-style: italic;
   padding: 2px;
   text-align: center;
