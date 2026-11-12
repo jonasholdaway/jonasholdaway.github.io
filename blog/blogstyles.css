@@ -25,16 +25,19 @@ h2 {font-family:'Courier New',monospace; margin-bottom:0px; color: indianred;}
 h3 {font-family:'Courier New',monospace; margin-bottom:0px; color: rebeccapurple}
 
 figure {
-  /* border: 1px #cccccc solid; */
-  padding: 4px;
-  margin: auto;
-}
+       /* border: 1px #cccccc solid; */
+       width: var(--wideness);
+       max-width: 100%;
+       padding: 4px;
+       margin: auto}
 
 figcaption {
-  /* background-color: black;
-  color: white; */
-  font-family:'Courier New',monospace;
-  font-style: italic;
-  padding: 2px;
-  text-align: center;
-}
+       /* background-color: black;
+       color: white; */
+       font-family:'Courier New',monospace;
+       font-style: italic;
+       font-size: 0.85em;
+       color:cornflowerblue
+       padding: 2px;
+       text-align: center;
+       margin-bottom: 15px}
