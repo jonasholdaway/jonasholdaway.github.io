@@ -13,9 +13,9 @@ p {
 
 div {text-align: center; 
        width:var(--wideness); 
-       box-sizing: border-box;
        max-width: 100%;
        color:var(--bodycolor);
+       box-sizing: border-box;
        margin-top:0;
        margin-bottom:15px}
 
@@ -59,12 +59,14 @@ figcaption {
        font-family:'Courier New',monospace;
        display: flex;
        justify-content: space-between;
-       max-width: var(--wideness);
+       width:var(--wideness); 
+       max-width: 100%;
        margin-top: 60px;}
 
 .top-link {
        font-family:'Courier New',monospace;
-       max-width: var(--wideness);
-       text-align: center;
+       width:var(--wideness); 
+       max-width: 100%;
+       text-align: center;       
        margin-top: 15px;
        margin-bottom: 60px;}
