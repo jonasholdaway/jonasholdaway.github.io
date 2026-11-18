@@ -55,13 +55,19 @@ figcaption {
        margin-top:5px}
 
 .page-nav {
-    display: flex;
-    justify-content: space-between;
-    max-width: var(--wideness);
-    margin-top: 30px;}
+       font-family:'Courier New',monospace;
+       font-size: 1em;
+       color:cornflowerblue;
+       display: flex;
+       justify-content: space-between;
+       max-width: var(--wideness);
+       margin-top: 30px;}
 
 .top-link {
-    max-width: var(--wideness);
-    text-align: center;
-    margin-top: 15px;
-    margin-bottom: 60px;}
+       font-family:'Courier New',monospace;
+       font-size: 1em;
+       color:cornflowerblue;
+       max-width: var(--wideness);
+       text-align: center;
+       margin-top: 15px;
+       margin-bottom: 60px;}
