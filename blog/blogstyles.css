@@ -61,7 +61,7 @@ figcaption {
        display: flex;
        justify-content: space-between;
        max-width: var(--wideness);
-       margin-top: 30px;}
+       margin-top: 60px;}
 
 .top-link {
        font-family:'Courier New',monospace;
