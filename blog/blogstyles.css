@@ -56,8 +56,6 @@ figcaption {
 
 .page-nav {
        font-family:'Courier New',monospace;
-       font-size: 1em;
-       color:cornflowerblue;
        display: flex;
        justify-content: space-between;
        max-width: var(--wideness);
@@ -65,8 +63,6 @@ figcaption {
 
 .top-link {
        font-family:'Courier New',monospace;
-       font-size: 1em;
-       color:cornflowerblue;
        max-width: var(--wideness);
        text-align: center;
        margin-top: 15px;
