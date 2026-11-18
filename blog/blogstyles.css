@@ -18,8 +18,6 @@ div {text-align: center;
      margin-top:0;
      margin-bottom:15px}
 
-.date {color:cornflowerblue; font-weight:bold; font-style:italic; margin-top:5px}
-
 h1 {font-family:'Courier New',monospace; margin-bottom:0px; color: black;}  
 h2 {font-family:'Courier New',monospace; margin-bottom:0px; color: indianred;}
 h3 {font-family:'Courier New',monospace; margin-bottom:0px; color: rebeccapurple}
@@ -48,3 +46,22 @@ figcaption {
        text-align: center;
        margin-top: 5px;
        margin-bottom: 15px;}
+
+/* CLASS HIERARCHY */
+
+.date {color:cornflowerblue; 
+       font-weight:bold; 
+       font-style:italic; 
+       margin-top:5px}
+
+.page-nav {
+    display: flex;
+    justify-content: space-between;
+    max-width: var(--wideness);
+    margin-top: 30px;}
+
+.top-link {
+    max-width: var(--wideness);
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 60px;}
